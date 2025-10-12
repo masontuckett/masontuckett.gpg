@@ -1,6 +1,6 @@
 # My Public Key & Web Statements
 
-Contains all relevant information regarding my [self-hosted services](https://masontuckett.xyz/services/) and [portfolio site](https://github.com/masontuckett.xyz/). 
+Contains all relevant information regarding my [self-hosted services](https://masontuckett.xyz/services/) and [personal site](https://github.com/masontuckett.xyz/). 
 
 - Public Key Details
 - Tor Authenticity Statement
