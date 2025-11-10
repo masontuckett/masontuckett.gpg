@@ -4,7 +4,7 @@ Hash: SHA512
 ### Beginning of Statement ###
 
 Subject: Privacy Policy
-Date: 2025-11-08
+Date: 2025-11-10
 
 Operator: Mason Tuckett mason@tuckett.xyz
 
@@ -30,12 +30,18 @@ http://mtuckod2ooelmftsiaxps3uod2fqwri5fmlh3opftl3aslk2jun3sgqd.onion
 http://mtuck72hhymdaeebyviaralnm3jarac7t6ctxcqzppsbh2gz5kfl2pad.onion
 http://mtuckwbhnyx7pk3w3vvyqydv6sag5uxcbsx6dn5q5j4olpqmlkzosbad.onion
 
+I2P mirrors(s) covered by this statement:
+
+http://mjnt7z23l6nhugddsn7yokk3veiegyozjw27kymzry7chjlriqiq.b32.i2p
+http://mqfp6dvkrpf452mvwp2ouzh7dkn4swb7dhbaas76rtpurysdckoq.b32.i2p
+http://jtlvrghfky47lwgdzyokiezxjihmegavpd6cdddhctbuw7kbbtwq.b32.i2p
+
 ! Privacy Statement !
 I, the undersigned, assert that access logging only occurs on my clearnet portfolio (https://masontuckett.xyz). Error logging is enabled for all operated sites, therein not impacting your privacy. Any future alterations to this privacy policy will be announced in a new statement signed by the same primary key (or its designated successor key) and published on both clearnet and Onion sites (portfolio and GH mirror).
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRycrgDYGDkWQIYqV0R9Ydl57IRkwUCaQ8N7wAKCRAR9Ydl57IR
-k0WeAQDFD1yqMZlAhYuVhkkesy2Ez1/61x6TjEiaR4NCdaSX5QD/T2IOegGAfmhO
-dAz3jMIVpWMSrzTVudlVYDzD7KN4KQk=
-=bj6O
+iHUEARYKAB0WIQRycrgDYGDkWQIYqV0R9Ydl57IRkwUCaRGrKAAKCRAR9Ydl57IR
+kycwAQCMEiBOOFQE31ZprvjI4BjLsAsorqs22kC54sxGdLxsBwD/d/EW7JELLUD+
+WvdKQ9ARQHiHl//6zfpff0tQxVf3SAQ=
+=EGAK
 -----END PGP SIGNATURE-----

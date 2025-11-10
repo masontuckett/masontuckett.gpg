@@ -4,7 +4,7 @@ Hash: SHA512
 ### Beginning of Statement ###
 
 Subject: Tor Mirror Authenticity Statement
-Date: 2025-11-08
+Date: 2025-11-10
 
 Operator: Mason Tuckett mason@tuckett.xyz 
 
@@ -30,12 +30,18 @@ http://mtuckod2ooelmftsiaxps3uod2fqwri5fmlh3opftl3aslk2jun3sgqd.onion
 http://mtuck72hhymdaeebyviaralnm3jarac7t6ctxcqzppsbh2gz5kfl2pad.onion
 http://mtuckwbhnyx7pk3w3vvyqydv6sag5uxcbsx6dn5q5j4olpqmlkzosbad.onion
 
+I2P mirrors(s) covered by this statement:
+
+http://mjnt7z23l6nhugddsn7yokk3veiegyozjw27kymzry7chjlriqiq.b32.i2p
+http://mqfp6dvkrpf452mvwp2ouzh7dkn4swb7dhbaas76rtpurysdckoq.b32.i2p
+http://jtlvrghfky47lwgdzyokiezxjihmegavpd6cdddhctbuw7kbbtwq.b32.i2p
+
 ! Authenticity Statement !
 I, the undersigned, assert that the Onion addresses listed above are official mirrors of their respective clearnet sites, fully operated by me. Any future change of Onion addressing or ownership will be announced in a new statement signed by the same primary key (or its designated successor key) and published on both clearnet and Onion sites (portfolio and GH mirror).
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRycrgDYGDkWQIYqV0R9Ydl57IRkwUCaQ8N5QAKCRAR9Ydl57IR
-k4E3AP4nQNVM6cErgsLh/ZLKEO0fKnANeBkioesxdanx8dB+eAEArTooAn7Coskr
-ZvxslXlwxuMntgkm13218Y/rpSJIUw0=
-=XvzB
+iHUEARYKAB0WIQRycrgDYGDkWQIYqV0R9Ydl57IRkwUCaRGqUQAKCRAR9Ydl57IR
+kx2oAQDT8KtnDmRSxB+221zHq6/Q85WpZn6FWnvciIziMxxVaQEAsfCdkdXQe4eG
+f2xcKX/VF+RIMzFuZTvMMKjQZ3p6/gw=
+=6hVN
 -----END PGP SIGNATURE-----
