@@ -4,7 +4,7 @@ Hash: SHA512
 ### Beginning of Statement ###
 
 Subject: Privacy Policy
-Date: 2025-11-10
+Date: 2025-12-12
 
 Operator: Mason Tuckett mason@tuckett.xyz
 
@@ -37,14 +37,14 @@ http://mqfp6dvkrpf452mvwp2ouzh7dkn4swb7dhbaas76rtpurysdckoq.b32.i2p
 http://jtlvrghfky47lwgdzyokiezxjihmegavpd6cdddhctbuw7kbbtwq.b32.i2p
 
 ! Privacy Statement !
-I, the undersigned, assert that access logging only occurs on my clearnet mirrors. Error logging is enabled for all operated sites (including hidden mirrors), therein not impacting your privacy. Any future alterations to this privacy policy will be announced in a new statement signed by the same primary key (or its designated successor key) and published on all mirrors (personal site and GitHub).
-I am dealing with a mass DDoS campign, so these amendments are a necessity.
+I, the undersigned, assert that access/error logging occurs on all operated sites (hidden mirrors are naturally obscured). Any future alterations to this privacy policy will be announced in a new statement signed by the same primary key (or its designated successor key) and published on all mirrors (personal site and GitHub).
+I am dealing with a mass DDoS campign (bot/crawler driven), so these amendments are a necessity.
 
 ### End of Statement ###
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRycrgDYGDkWQIYqV0R9Ydl57IRkwUCaTZvZgAKCRAR9Ydl57IR
-k+IZAQC4947jpLmAj/xjVbEhGLh7i9LRaECvL9PUGF7XfilJugEA2d+fY0ONTAX8
-fIit3Q3/jVT3j0bXZXzbU9/TZEFrvwQ=
-=fnzU
+iHUEARYKAB0WIQRycrgDYGDkWQIYqV0R9Ydl57IRkwUCaTvFoAAKCRAR9Ydl57IR
+k3/wAP0c9xKaBdzE9QH9pDK9T6TIVKHg5AQLdN8F64yPe4vAyAD/eoxT/d/YqfJn
+eF62NRK9Y8X2noqcwUWCbyX4iaEIrwA=
+=PHFL
 -----END PGP SIGNATURE-----
